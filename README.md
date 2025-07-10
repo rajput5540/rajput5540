@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Vishal Singh
 
-<!--
-**rajput5540/rajput5540** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Data Analyst | Python • SQL • Power BI  
+📊 Passionate about turning raw data into meaningful insights  
+📚 Currently learning Statistics & Machine Learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Top Projects
+
+### 🔍 QuoteScrape Insights  
+Web scraping + data analysis using Python, BeautifulSoup, Pandas  
+➡️ [View on GitHub](https://github.com/rajput5540/QuoteScrape-Insights)
+
+### 📈 Maven Market Analysis  
+Interactive dashboards using Power BI & SQL  
+➡️ [View on GitHub](https://github.com/rajput5540/Maven-Market-Analysis)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: [vishu0402imp@gmail.com](mailto:vishu0402imp@gmail.com)  
+- 🔗 GitHub: [github.com/rajput5540](https://github.com/rajput5540)  
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
