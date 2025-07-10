@@ -22,4 +22,4 @@ Interactive dashboards using Power BI & SQL
 
 - 📧 Email: [vishu0402imp@gmail.com](mailto:vishu0402imp@gmail.com)  
 - 🔗 GitHub: [github.com/rajput5540](https://github.com/rajput5540)  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 💼 LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/vishurajput)
