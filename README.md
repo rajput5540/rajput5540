@@ -10,11 +10,11 @@
 
 ### 🔍 QuoteScrape Insights  
 Web scraping + data analysis using Python, BeautifulSoup, Pandas  
-➡️ [View on GitHub](https://github.com/rajput5540/QuoteScrape-Insights)
+➡️ [View on GitHub](https://github.com/rajput5540/QuoteScrape_Insights_Project)
 
 ### 📈 Maven Market Analysis  
 Interactive dashboards using Power BI & SQL  
-➡️ [View on GitHub](https://github.com/rajput5540/Maven-Market-Analysis)
+➡️ [View on GitHub](https://github.com/rajput5540/Power_bi_project3)
 
 ---
 
